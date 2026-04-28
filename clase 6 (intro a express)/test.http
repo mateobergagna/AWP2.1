@@ -1,0 +1,15 @@
+###
+GET http://localhost:3100
+
+###
+GET http://192.169.0.128:3005
+
+###
+GET http://localhost:3100/usuarios
+
+###
+POST http://localhost:3100
+
+
+Content-Type: application/json
+
